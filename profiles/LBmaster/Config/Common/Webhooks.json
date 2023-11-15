@@ -1,0 +1,126 @@
+{
+    "version": 2,
+    "webhooks": [
+        {
+            "enabled": 0,
+            "description": "Test Webhook for demonstration",
+            "webhookURL": "https://discord.com/api/webhooks/....",
+            "webhookMessages": [
+                "GroupCreate",
+                "GroupDelete",
+                "GroupChat",
+                "GlobalChat",
+                "DirectChat",
+                "ATMRobbingSuccess"
+            ],
+            "overwrittenMessages": {}
+        },
+        {
+            "enabled": 0,
+            "description": "Admin Webhook for demonstration",
+            "webhookURL": "https://discord.com/api/webhooks/....",
+            "webhookMessages": [
+                "GroupCreate",
+                "GroupDelete",
+                "GroupChat",
+                "GlobalChat",
+                "DirectChat",
+                "ATMRobbingSuccess"
+            ],
+            "overwrittenMessages": {
+                "ATMRobbingSuccess": {
+                    "message": ""
+                }
+            }
+        }
+    ],
+    "webhookMessages": {
+        "Teamkill": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Teamkill\",\"description\":\"A Player killed another player from the same Group\",\"color\":16711680,\"fields\":[{\"name\":\"Victim\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Killer\",\"value\":\"[$$3$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$4$$)\",\"inline\":true},{\"name\":\"Group\",\"value\":\"$$5$$ ($$6$$)\",\"inline\":true},{\"name\":\"Weapon\",\"value\":\"$$7$$\",\"inline\":true},{\"name\":\"Victim Position\",\"value\":\"X:$$8$$ Y:$$9$$ Z:$$10$$\",\"inline\":true},{\"name\":\"Killer Position\",\"value\":\"X:$$11$$ Y:$$12$$ Z:$$13$$\",\"inline\":true},{\"name\":\"Distance\",\"value\":\"$$14$$m\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupDemotedAdmin": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Demoted player in a group\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$7$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$8$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$5$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$6$$\",\"inline\":true},{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Old Rank\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"New Rank\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "PlayerMute": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player was muted\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Target\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Duration\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Muted By\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GlobalMarkerChanged": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Global Marker Edited\",\"description\":\"\",\"color\":16776960,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Old Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"New Name\",\"value\":\"$$4$$\",\"inline\":true},{\"name\":\"New Position\",\"value\":\"X: $$5$$ Y: $$6$$ Z: $$7$$\"}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupJoinInvite": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player joined group by invite\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupNameChanged": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Changed Group Name\",\"description\":\"\",\"color\":16776960,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$5$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$6$$)\",\"inline\":true},{\"name\":\"Old Name\",\"value\":\"$$1$$\",\"inline\":true},{\"name\":\"Old Tag\",\"value\":\"$$2$$\",\"inline\":true},{\"name\":\"New Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"New Tag\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupUpgraded": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Group Upgraded\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$4$$\",\"inline\":true},{\"name\":\"Level\",\"value\":\"$$5$$ -> $$6$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupTagColorChanged": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Group Tag Color was Changed\",\"description\":\"\",\"color\":65535,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$4$$\",\"inline\":true},{\"name\":\"Color\",\"value\":\"R: $$5$$ R: $$6$$ G: $$7$$\",\"inline\":true},{\"name\":\"Has Colored Tag\",\"value\":\"$$8$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "NoBuildZonesUpdated": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"No Build Zones changed\",\"description\":\"\",\"color\":65535,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Enabled\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Shown on Map\",\"value\":\"$$4$$\",\"inline\":true},{\"name\":\"Zone Count\",\"value\":\"$$5$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GlobalMarkerAdded": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Global Marker added\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Marker Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Position\",\"value\":\"X: $$4$$ Y: $$5$$ Z: $$6$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupCreate": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Group Created\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupJoinAdmin": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Joined Group\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Gropu Tag\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupLevelChanged": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Changed Group Level\",\"description\":\"\",\"color\":16776960,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$5$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$6$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$1$$\",\"inline\":true},{\"name\":\"Gropu Tag\",\"value\":\"$$2$$\",\"inline\":true},{\"name\":\"Old Level\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"New Level\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "PlotpoleLostOwner": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Plotpole Lost Owner Group\",\"description\":\"\",\"color\":16711680,\"fields\":[{\"name\":\"Group Tag\",\"value\":\"$$1$$\",\"inline\":true},{\"name\":\"Position\",\"value\":\"X: $$2$$ Y: $$3$$ Z: $$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "PlotpoleBuilt": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Plotpole built\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$4$$\",\"inline\":true},{\"name\":\"Position\",\"value\":\"X: $$5$$ Y: $$6$$ Z: $$7$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupDelete": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Group Deleted\",\"description\":\"\",\"color\":16711680,\"fields\":[{\"name\":\"Group Name\",\"value\":\"$$1$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$2$$\",\"inline\":true},{\"name\":\"Reason\",\"value\":\"$$3$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupLeft": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Group Left\",\"description\":\"\",\"color\":16776960,\"fields\":[{\"name\":\"Group Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$4$$\",\"inline\":true},{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "PlotpoleClaimed": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Plotpole Claimed\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$4$$\",\"inline\":true},{\"name\":\"Position\",\"value\":\"X: $$5$$ Y: $$6$$ Z: $$7$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupPromoteLeaderAdmin": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Promoted player to Leader\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$7$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$8$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$5$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$6$$\",\"inline\":true},{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Old Rank\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"New Rank\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "PlayerJoined": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player Joined the Server\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Obfuscated ID\",\"value\":\"$$3$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "ChatCommandUsed": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player used a Chat command\",\"description\":\"\",\"color\":65535,\"fields\":[{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Command\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Arguments\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupPromoteAdmin": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin Promoted player in a group\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$7$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$8$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$5$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$6$$\",\"inline\":true},{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Old Rank\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"New Rank\",\"value\":\"$$4$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "PlayerUnmute": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Player was unmuted\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Target\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Reason\",\"value\":\"$$3$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupNewLeader": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"New Leader\",\"description\":\"The Leader of the group left and it got a new Leader\",\"color\":65535,\"fields\":[{\"name\":\"Group Name\",\"value\":\"$$5$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$6$$\",\"inline\":true},{\"name\":\"Old Leader\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"New Leader\",\"value\":\"[$$3$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$4$$)\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GlobalMarkerRemoved": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Global Marker removed\",\"description\":\"\",\"color\":16711680,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true},{\"name\":\"Marker Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Position\",\"value\":\"X: $$4$$ Y: $$5$$ Z: $$6$$\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupKickAdmin": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Admin kicked player from Group\",\"description\":\"\",\"color\":65280,\"fields\":[{\"name\":\"Admin\",\"value\":\"[$$5$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$6$$)\",\"inline\":true},{\"name\":\"Group Name\",\"value\":\"$$3$$\",\"inline\":true},{\"name\":\"Group Tag\",\"value\":\"$$4$$\",\"inline\":true},{\"name\":\"Player\",\"value\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$)\",\"inline\":true}]}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GlobalChat": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Global Chat\",\"description\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$): $$3$$\",\"color\":$$4$$}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "DirectChat": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Direct Chat\",\"description\":\"[$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$): $$3$$\",\"color\":$$4$$}],\"allowed_mentions\":{\"parse\":[]}}"
+        },
+        "GroupChat": {
+            "message": "{\"embeds\":[{\"type\":\"rich\",\"title\":\"Group Chat\",\"description\":\"[$$4$$] [$$1$$](https:\\/\\/steamcommunity.com\\/profiles\\/$$2$$): $$5$$\",\"color\":$$6$$}],\"allowed_mentions\":{\"parse\":[]}}"
+        }
+    }
+}

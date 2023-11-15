@@ -1,0 +1,6 @@
+2023-11-16 10:34:16: -- Analysis Started by User Command
+2023-11-16 10:34:16: L: Reading State File E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 10:34:16: L: State file does not exist: E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 10:34:17: R: Reading State File //172.111.51.148/Spanglish_Chernarus/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 10:34:26: Changes: 0, Conflicts: 0, CopyTime: 0, FixState: 19, Errors: 0, All: 140
+2023-11-16 10:34:26: -- Analysis Complete. Time 00:00:12, Speed: 11 files/s

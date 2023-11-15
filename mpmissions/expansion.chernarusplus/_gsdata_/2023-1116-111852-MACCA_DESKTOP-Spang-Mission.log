@@ -1,0 +1,93 @@
+2023-11-16 11:18:54: -- Analysis Started by User Command
+2023-11-16 11:18:54: L: Reading State File E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2023-11-16 11:18:54: L: Old-New Time Shift of -19 hours detected for 100% (85/85) of files. Decided: No Change on this side
+2023-11-16 11:18:55: R: Reading State File //172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2023-11-16 11:19:08: /areaflags.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgeconomycore.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgeffectarea.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgenvironment.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgeventgroups.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgeventspawns.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfggameplay.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgignorelist.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfglimitsdefinition.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfglimitsdefinitionuser.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgplayerspawnpoints.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgrandompresets.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgspawnabletypes.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgundergroundtriggers.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /cfgweather.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/AirDrops_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/BBP_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/BreachingCharge_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/CannabisPlus_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/CodeLock_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Flava/Flava_Tactical_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Flava/TacticalFlava_spawnabletypes.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Rags/rag_atv_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Rags/rag_baja_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Rags/rag_derby_car_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Rags/rag_gaz69_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Rags/rag_hummer_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Rags/rag_jeep_willys_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Rags/rag_landrover_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Rags/rag_mtvr_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Rags/rag_schoolbus_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /Custom/Rags/rag_zil_130_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /db/economy.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /db/events.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /db/globals.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /db/messages.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /db/types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /db/types_Noms.txt: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /EditorFiles/Balota_Airstrip.dze: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /EditorFiles/krasno-1.dze: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /EditorFiles/myshkino.dze: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /EditorFiles/NwafAddition.dze: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /EditorFiles/TLH_RifyChemicalSpillV02.dze: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /EditorFiles/VMC.dze: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/bear_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/cattle_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/domestic_animals_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/hare_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/hen_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/pig_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/red_deer_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/roe_deer_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/sheep_goat_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/wild_boar_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/wolf_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /env/zombie_territories.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/objects/Balota_AircraftTrader.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/objects/Chernogorsk_Ship.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/objects/Gorka_HuntingHouse.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/objects/Green_Mountain_Trader.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/objects/Kamenka_BoatTrader.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/objects/Kamenka_Trader.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/objects/Krasnostav_Trader.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/objects/Svetlojarsk_BoatTrader.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/settings/SafeZoneSettings.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/traders/AircraftsBalota.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/traders/BoatsFishingSvetloyarsk.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/traders/BoatsKamenka_Traders.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/traders/GreenMountain_Traders.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/traders/Kamenka_Traders.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion/traders/KrasnostavAirstrip_Traders.map: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion_ce/expansion_events.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion_ce/expansion_spawnabletypes.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion_ce/expansion_types.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /expansion_ce/expansion_types_Noms.txt: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /init.c: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /mapclusterproto.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /mapgroupcluster.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /mapgroupcluster01.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /mapgroupcluster02.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /mapgroupcluster03.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /mapgroupcluster04.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /mapgroupdirt.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /mapgrouppos.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:08: /mapgroupproto.xml: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:19:09: Changes: 203, Conflicts: 0, CopyTime: 0, FixState: 118, Errors: 0, All: 333
+2023-11-16 11:19:09: Left to Right: Copy File: 85 
+2023-11-16 11:19:09: Right to Left: Copy File: 118 
+2023-11-16 11:19:09: -- Analysis Complete. Time 00:00:16, Speed: 14 files/s

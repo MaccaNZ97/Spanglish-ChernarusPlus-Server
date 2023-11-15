@@ -1,0 +1,8 @@
+2023-11-14 17:59:13: -- Analysis Started by User Command
+2023-11-14 17:59:13: L: Reading State File E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/_gsdata_/_file_state_v4._gs
+2023-11-14 17:59:13: R: Reading State File //172.111.51.148/Spanglish_Chernarus/profiles/_gsdata_/_file_state_v4._gs
+2023-11-14 17:59:24: /Airdrop/AirdropSettings.json: Conflict: New files that differ
+2023-11-14 17:59:24: /LBmaster/Config/LBGroup/MainConfig.json: Conflict: New files that differ
+2023-11-14 17:59:24: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2023-11-14 17:59:24: Changes: 2, Conflicts: 2, CopyTime: 0, FixState: 1, Errors: 0, All: 130
+2023-11-14 17:59:24: -- Analysis Complete. Time 00:00:12, Speed: 10 files/s

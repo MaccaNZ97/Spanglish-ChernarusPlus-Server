@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<economycore>
+  <classes>
+    <rootclass name="DefaultWeapon" />
+    <rootclass name="DefaultMagazine" />
+    <rootclass name="Inventory_Base" />
+    <rootclass name="HouseNoDestruct" reportMemoryLOD="no" />
+    <rootclass name="SurvivorBase" reportMemoryLOD="no" act="character" />
+    <rootclass name="DZ_LightAI" reportMemoryLOD="no" act="character" />
+    <rootclass name="CarScript" reportMemoryLOD="no" act="car" />
+  </classes>
+  <defaults>
+    <default name="dyn_radius" value="30" />
+    <default name="dyn_smin" value="0" />
+    <default name="dyn_smax" value="0" />
+    <default name="dyn_dmin" value="1" />
+    <default name="dyn_dmax" value="5" />
+    <default name="log_ce_loop" value="false" />
+    <default name="log_ce_dynamicevent" value="false" />
+    <default name="log_ce_vehicle" value="false" />
+    <default name="log_ce_lootspawn" value="false" />
+    <default name="log_ce_lootcleanup" value="false" />
+    <default name="log_ce_lootrespawn" value="false" />
+    <default name="log_ce_statistics" value="false" />
+    <default name="log_ce_zombie" value="false" />
+    <default name="log_storageinfo" value="false" />
+    <default name="log_hivewarning" value="true" />
+    <default name="log_missionfilewarning" value="true" />
+    <default name="save_events_startup" value="true" />
+    <default name="save_types_startup" value="true" />
+  </defaults>
+  <ce folder="expansion_ce" >
+  <file name="expansion_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom">
+    <file name="airdrop_types.xml" type="types" />
+    <file name="AirDrops_types.xml" type="types" />
+    <file name="BBP_types.xml" type="types" />
+    <file name="BreachingCharge_types.xml" type="types" />
+    <file name="CannabisPlus_types.xml" type="types" />
+    <file name="CodeLock_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Rags">
+    <file name="rag_atv_types.xml" type="types" />
+	<file name="rag_baja_types.xml" type="types" />
+	<file name="rag_derby_car_types.xml" type="types" />
+	<file name="rag_gaz69_types.xml" type="types" />
+	<file name="rag_hummer_types.xml" type="types" />
+	<file name="rag_jeep_willys_types.xml" type="types" />
+	<file name="rag_landrover_types.xml" type="types" />
+	<file name="rag_mtvr_types.xml" type="types" />
+	<file name="rag_schoolbus_types.xml" type="types" />
+	<file name="rag_zil_130_types.xml" type="types" />
+  </ce>
+  <ce folder="Custom/Flava">
+    <file name="TacticalFlava_spawnabletypes.xml" type="spawnabletypes" />
+	<file name="Flava_Tactical_types.xml" type="types" />
+  </ce>
+</economycore>

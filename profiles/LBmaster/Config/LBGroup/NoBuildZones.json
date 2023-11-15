@@ -1,0 +1,16 @@
+{
+    "version": 2,
+    "enabled": 0,
+    "displayOnMap": 1,
+    "notificationTitle": "No Build Zones",
+    "notificationMessage": "You cannot build near {pos}",
+    "ignoreItems": [
+        "LandMineTrap",
+        "BearTrap",
+        "Fireplace"
+    ],
+    "circleColorR": 255,
+    "circleColorG": 100,
+    "circleColorB": 50,
+    "zones": []
+}

@@ -1,0 +1,64 @@
+2023-11-16 11:12:27: -- Analysis Started by User Command
+2023-11-16 11:12:27: L: Reading State File E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 11:12:27: L: Old-New Time Shift of -19 hours detected for 90% (50/55) of files. Decided: No Change on this side
+2023-11-16 11:12:27: R: Reading State File //172.111.51.148/Spanglish_Chernarus/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 11:12:40: /Airdrop/AirdropSafezones.json: L:TimeSize<>; R:TimeSize<>; Conflict: File Modified on Both Sides
+2023-11-16 11:12:40: /Airdrop/AirdropSafezones_bakup.json: L:TimeSize<>; R:TimeSize<>; Conflict: File Modified on Both Sides
+2023-11-16 11:12:40: /Airdrop/AirdropSettings.json: L:TimeSize<>; R:TimeSize<>; Conflict: File Modified on Both Sides
+2023-11-16 11:12:40: /CodeLock/CodeLockConfig.json: L:TimeSize<>; R:TimeSize<>; Conflict: File Modified on Both Sides
+2023-11-16 11:12:40: /CodeLock/CodeLockPerms.json: L:TimeSize<>; R:TimeSize<>; Conflict: File Modified on Both Sides
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 00-59-09.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 00-59-50.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-00-32.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-01-12.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-02-54.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-03-34.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-04-15.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-04-56.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-05-36.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-06-16.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-06-55.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-07-34.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-08-16.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-08-59.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-09-40.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-10-22.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-11-03.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-11-45.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-12-25.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-13-08.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-14-32.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-13 @ 19-42-29.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-34-18.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-35-03.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-35-48.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-36-33.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-37-19.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /BaseBuildingPlus/BBP_Settings.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /BreachingCharge/breachingcharge.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /CannabisPlus/CannabisPlus.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /Inedia/InediaInfectedAIConfig.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/Common/Admins.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/Common/Appearance.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/Common/Currencies.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/Common/Icons.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/Common/Logger.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/Common/Webhooks.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/AirdropMarkers.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/AutoMarker.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/ChatConfig.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/ClanClothing.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/Levels.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/MainConfig.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/MuteConfig.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/NoBuildZones.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/Permissions.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/SafezoneMarkers.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/StaticMarkers.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/Config/LBGroup/Timeout.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:40: /LBmaster/lastServer.json: L:TimeSize<>; Warning: Older file to replace Newer file
+2023-11-16 11:12:41: Analyze has finished with Conflicts. Resolve Conflicts by selecting the correct sync direction, then click Sync
+2023-11-16 11:12:41: Changes: 177, Conflicts: 5, CopyTime: 0, FixState: 2, Errors: 0, All: 195
+2023-11-16 11:12:41: Left to Right: Copy File: 50 Delete File: 12 
+2023-11-16 11:12:41: Right to Left: Copy File: 110 
+2023-11-16 11:12:41: -- Analysis Complete. Time 00:00:15, Speed: 12 files/s

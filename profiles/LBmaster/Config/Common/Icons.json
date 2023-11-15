@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "error": "set:ccgui_enforce image:MapDestroyed",
+    "warning": "set:ccgui_enforce image:MapUnipost",
+    "info": "set:ccgui_enforce image:MapUserMarker",
+    "applied": "set:ccgui_enforce image:HudEnter",
+    "abort": "set:ccgui_enforce image:HudLeave",
+    "building": "set:ccgui_enforce image:HudBuild"
+}

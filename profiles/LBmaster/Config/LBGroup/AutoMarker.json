@@ -1,0 +1,132 @@
+{
+    "version": 1,
+    "enabled": 0,
+    "automaticMarkers": [
+        {
+            "itemnames": [
+                "LB_ATM_Base",
+                "LB_ATM_Green",
+                "LB_ATM_Orange",
+                "LB_ATM_2_Black",
+                "LB_ATM_3_Black",
+                "LB_ATM_4_Black"
+            ],
+            "markerIcon": "LBmaster_Groups/gui/icons/bank.paa",
+            "markerName": "",
+            "yOffset": 1.0,
+            "updateInvervalSeconds": 0.0,
+            "display3D": 1,
+            "displayMap": 1,
+            "displayGPS": 1,
+            "markerColorFunction": "",
+            "markerColor": {
+                "a": 255,
+                "r": 0,
+                "g": 255,
+                "b": 0
+            },
+            "markerRadiusFunction": "",
+            "radius": 0.0,
+            "radiusColorFunction": "",
+            "radiusColor": {
+                "a": 255,
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "strikedRadius": 0,
+            "showOnlyInsideStaticMarkerRadius": 0
+        },
+        {
+            "itemnames": [
+                "Garage_Sign"
+            ],
+            "markerIcon": "LBmaster_Groups/gui/icons/parking.paa",
+            "markerName": "",
+            "yOffset": 1.0,
+            "updateInvervalSeconds": 0.0,
+            "display3D": 1,
+            "displayMap": 1,
+            "displayGPS": 1,
+            "markerColorFunction": "",
+            "markerColor": {
+                "a": 255,
+                "r": 0,
+                "g": 255,
+                "b": 0
+            },
+            "markerRadiusFunction": "",
+            "radius": 0.0,
+            "radiusColorFunction": "",
+            "radiusColor": {
+                "a": 255,
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "strikedRadius": 0,
+            "showOnlyInsideStaticMarkerRadius": 0
+        },
+        {
+            "itemnames": [
+                "Wreck_UH1Y",
+                "Wreck_Mi8"
+            ],
+            "markerIcon": "LBmaster_Groups/gui/icons/heli.paa",
+            "markerName": "Helicopter",
+            "yOffset": 1.0,
+            "updateInvervalSeconds": 0.0,
+            "display3D": 1,
+            "displayMap": 1,
+            "displayGPS": 1,
+            "markerColorFunction": "",
+            "markerColor": {
+                "a": 255,
+                "r": 255,
+                "g": 0,
+                "b": 0
+            },
+            "markerRadiusFunction": "",
+            "radius": 0.0,
+            "radiusColorFunction": "",
+            "radiusColor": {
+                "a": 255,
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "strikedRadius": 0,
+            "showOnlyInsideStaticMarkerRadius": 0
+        },
+        {
+            "itemnames": [
+                "GPSReceiver"
+            ],
+            "markerIcon": "LBmaster_Groups/gui/icons/flag.paa",
+            "markerName": "Tracker",
+            "yOffset": 1.0,
+            "updateInvervalSeconds": 20.0,
+            "display3D": 1,
+            "displayMap": 1,
+            "displayGPS": 1,
+            "markerColorFunction": "",
+            "markerColor": {
+                "a": 255,
+                "r": 255,
+                "g": 0,
+                "b": 0
+            },
+            "markerRadiusFunction": "",
+            "radius": 0.0,
+            "radiusColorFunction": "",
+            "radiusColor": {
+                "a": 255,
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "strikedRadius": 0,
+            "showOnlyInsideStaticMarkerRadius": 0
+        }
+    ]
+}

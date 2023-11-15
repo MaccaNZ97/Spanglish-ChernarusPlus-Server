@@ -1,0 +1,11 @@
+2023-11-14 17:59:45: == Sync Started by User Command
+2023-11-14 17:59:47: Start only 2 threads, limited by tasks to run
+2023-11-14 17:59:47: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-14 17:59:47: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-14 17:59:47: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-14 17:59:47: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-14 17:59:48: Copy Over '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings.json' (14,669) (User Action)
+2023-11-14 17:59:49: Copy Over '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/MainConfig.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/MainConfig.json' (7,128) (User Action)
+2023-11-14 17:59:49: Save State File E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/_gsdata_/_file_state_v4._gs
+2023-11-14 17:59:50: Save State File //172.111.51.148/Spanglish_Chernarus/profiles/_gsdata_/_file_state_v4._gs
+2023-11-14 17:59:52: == Sync Complete. Time: 00:00:07, Speed: 5.18 KB/s, OK: 3, Errors: 0

@@ -1,0 +1,125 @@
+2023-11-14 17:54:28: == Sync Started by User Command
+2023-11-14 17:54:30: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions
+2023-11-14 17:54:30: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions
+2023-11-14 17:54:30: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus
+2023-11-14 17:54:30: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions
+2023-11-14 17:54:30: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus
+2023-11-14 17:54:30: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus
+2023-11-14 17:54:31: > Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/areaflags.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/areaflags.map' (83,886,104)
+2023-11-14 17:54:33: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgeconomycore.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgeconomycore.xml' (2,668)
+2023-11-14 17:54:33: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgeffectarea.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgeffectarea.json' (4,528)
+2023-11-14 17:54:34: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgeventgroups.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgeventgroups.xml' (119,215)
+2023-11-14 17:54:34: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgenvironment.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgenvironment.xml' (3,853)
+2023-11-14 17:54:37: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgeventspawns.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgeventspawns.xml' (78,948)
+2023-11-14 17:54:37: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfggameplay.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfggameplay.json' (3,016)
+2023-11-14 17:54:39: < Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/areaflags.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/areaflags.map' (83,886,104)
+2023-11-14 17:54:39: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfglimitsdefinition.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfglimitsdefinition.xml' (1,280)
+2023-11-14 17:54:39: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgignorelist.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgignorelist.xml' (769)
+2023-11-14 17:54:40: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfglimitsdefinitionuser.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfglimitsdefinitionuser.xml' (1,360)
+2023-11-14 17:54:40: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgrandompresets.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgrandompresets.xml' (33,812)
+2023-11-14 17:54:40: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgplayerspawnpoints.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgplayerspawnpoints.xml' (13,303)
+2023-11-14 17:54:41: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgspawnabletypes.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgspawnabletypes.xml' (116,591)
+2023-11-14 17:54:41: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom
+2023-11-14 17:54:41: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/db
+2023-11-14 17:54:41: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/EditorFiles
+2023-11-14 17:54:41: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env
+2023-11-14 17:54:41: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion
+2023-11-14 17:54:41: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion_ce
+2023-11-14 17:54:41: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgundergroundtriggers.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgundergroundtriggers.json' (35)
+2023-11-14 17:54:41: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/cfgweather.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/cfgweather.xml' (2,789)
+2023-11-14 17:54:41: > Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupcluster.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupcluster.xml' (4,608,583)
+2023-11-14 17:54:41: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/init.c' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/init.c' (2,788)
+2023-11-14 17:54:41: > Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupcluster01.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupcluster01.xml' (4,565,589)
+2023-11-14 17:54:42: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapclusterproto.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapclusterproto.xml' (34,716)
+2023-11-14 17:54:42: > Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupcluster02.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupcluster02.xml' (4,618,770)
+2023-11-14 17:54:42: < Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupcluster.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupcluster.xml' (4,608,583)
+2023-11-14 17:54:42: > Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupcluster03.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupcluster03.xml' (4,653,283)
+2023-11-14 17:54:44: < Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupcluster01.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupcluster01.xml' (4,565,589)
+2023-11-14 17:54:44: > Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupcluster04.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupcluster04.xml' (1,610,227)
+2023-11-14 17:54:44: < Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupcluster02.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupcluster02.xml' (4,618,770)
+2023-11-14 17:54:44: < Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupcluster03.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupcluster03.xml' (4,653,283)
+2023-11-14 17:54:44: > Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgrouppos.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgrouppos.xml' (1,833,160)
+2023-11-14 17:54:47: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupdirt.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupdirt.xml' (71)
+2023-11-14 17:54:47: < Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupcluster04.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupcluster04.xml' (1,610,227)
+2023-11-14 17:54:47: > Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupproto.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupproto.xml' (1,205,235)
+2023-11-14 17:54:47: < Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgrouppos.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgrouppos.xml' (1,833,160)
+2023-11-14 17:54:48: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/AirDrops_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/AirDrops_types.xml' (570)
+2023-11-14 17:54:48: < Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/mapgroupproto.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/mapgroupproto.xml' (1,205,235)
+2023-11-14 17:54:48: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/BBP_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/BBP_types.xml' (17,904)
+2023-11-14 17:54:49: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/BreachingCharge_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/BreachingCharge_types.xml' (451)
+2023-11-14 17:54:49: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Flava
+2023-11-14 17:54:49: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags
+2023-11-14 17:54:49: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/CannabisPlus_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/CannabisPlus_types.xml' (34,678)
+2023-11-14 17:54:49: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/CodeLock_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/CodeLock_types.xml' (500)
+2023-11-14 17:54:50: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/db/economy.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/db/economy.xml' (509)
+2023-11-14 17:54:50: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/db/events.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/db/events.xml' (49,301)
+2023-11-14 17:54:50: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/db/globals.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/db/globals.xml' (1,747)
+2023-11-14 17:54:50: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/db/messages.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/db/messages.xml' (1,232)
+2023-11-14 17:54:50: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/db/types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/db/types.xml' (798,732)
+2023-11-14 17:54:51: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/db/types_Noms.txt' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/db/types_Noms.txt' (3,924)
+2023-11-14 17:54:51: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/EditorFiles/Balota_Airstrip.dze' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/EditorFiles/Balota_Airstrip.dze' (33,235)
+2023-11-14 17:54:51: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/EditorFiles/krasno-1.dze' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/EditorFiles/krasno-1.dze' (87,169)
+2023-11-14 17:54:51: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/EditorFiles/myshkino.dze' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/EditorFiles/myshkino.dze' (64,189)
+2023-11-14 17:54:52: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/EditorFiles/NwafAddition.dze' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/EditorFiles/NwafAddition.dze' (85,688)
+2023-11-14 17:54:52: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/EditorFiles/TLH_RifyChemicalSpillV02.dze' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/EditorFiles/TLH_RifyChemicalSpillV02.dze' (23,571)
+2023-11-14 17:54:52: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/EditorFiles/VMC.dze' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/EditorFiles/VMC.dze' (28,751)
+2023-11-14 17:54:53: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/bear_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/bear_territories.xml' (7,472)
+2023-11-14 17:54:53: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/cattle_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/cattle_territories.xml' (22,893)
+2023-11-14 17:54:53: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/domestic_animals_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/domestic_animals_territories.xml' (22,893)
+2023-11-14 17:54:53: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/hare_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/hare_territories.xml' (43,216)
+2023-11-14 17:54:54: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/hen_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/hen_territories.xml' (41,716)
+2023-11-14 17:54:54: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/pig_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/pig_territories.xml' (19,179)
+2023-11-14 17:54:54: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/red_deer_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/red_deer_territories.xml' (26,417)
+2023-11-14 17:54:54: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/roe_deer_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/roe_deer_territories.xml' (28,761)
+2023-11-14 17:54:55: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/sheep_goat_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/sheep_goat_territories.xml' (16,198)
+2023-11-14 17:54:55: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/wild_boar_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/wild_boar_territories.xml' (21,477)
+2023-11-14 17:54:55: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/objects
+2023-11-14 17:54:55: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/settings
+2023-11-14 17:54:55: Create Folder E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/traders
+2023-11-14 17:54:55: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/wolf_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/wolf_territories.xml' (28,943)
+2023-11-14 17:54:55: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/env/zombie_territories.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/env/zombie_territories.xml' (81,986)
+2023-11-14 17:54:56: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion_ce/expansion_events.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion_ce/expansion_events.xml' (12,819)
+2023-11-14 17:54:56: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion_ce/expansion_spawnabletypes.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion_ce/expansion_spawnabletypes.xml' (101,232)
+2023-11-14 17:54:56: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion_ce/expansion_types.xml' (199,147)
+2023-11-14 17:54:57: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion_ce/expansion_types_Noms.txt' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion_ce/expansion_types_Noms.txt' (196)
+2023-11-14 17:54:57: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Flava/Flava_Tactical_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Flava/Flava_Tactical_types.xml' (162,872)
+2023-11-14 17:54:57: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Flava/TacticalFlava_spawnabletypes.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Flava/TacticalFlava_spawnabletypes.xml' (40,041)
+2023-11-14 17:54:57: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Rags/rag_atv_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags/rag_atv_types.xml' (2,745)
+2023-11-14 17:54:58: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Rags/rag_baja_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags/rag_baja_types.xml' (6,279)
+2023-11-14 17:54:58: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Rags/rag_derby_car_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags/rag_derby_car_types.xml' (5,705)
+2023-11-14 17:54:58: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Rags/rag_gaz69_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags/rag_gaz69_types.xml' (2,649)
+2023-11-14 17:54:58: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Rags/rag_hummer_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags/rag_hummer_types.xml' (28,908)
+2023-11-14 17:54:59: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Rags/rag_jeep_willys_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags/rag_jeep_willys_types.xml' (1,336)
+2023-11-14 17:54:59: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Rags/rag_landrover_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags/rag_landrover_types.xml' (25,474)
+2023-11-14 17:54:59: Close Modified Folder (mod-time, acl): /db
+2023-11-14 17:54:59: Close Modified Folder (mod-time, acl): /EditorFiles
+2023-11-14 17:54:59: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Rags/rag_mtvr_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags/rag_mtvr_types.xml' (5,422)
+2023-11-14 17:54:59: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Rags/rag_schoolbus_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags/rag_schoolbus_types.xml' (2,186)
+2023-11-14 17:55:00: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/objects/Balota_AircraftTrader.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/objects/Balota_AircraftTrader.map' (92)
+2023-11-14 17:55:00: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/Custom/Rags/rag_zil_130_types.xml' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/Custom/Rags/rag_zil_130_types.xml' (3,141)
+2023-11-14 17:55:00: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/objects/Chernogorsk_Ship.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/objects/Chernogorsk_Ship.map' (316)
+2023-11-14 17:55:01: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/objects/Gorka_HuntingHouse.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/objects/Gorka_HuntingHouse.map' (25,917)
+2023-11-14 17:55:01: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/objects/Green_Mountain_Trader.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/objects/Green_Mountain_Trader.map' (18,152)
+2023-11-14 17:55:01: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/objects/Kamenka_BoatTrader.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/objects/Kamenka_BoatTrader.map' (88)
+2023-11-14 17:55:02: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/objects/Kamenka_Trader.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/objects/Kamenka_Trader.map' (3,022)
+2023-11-14 17:55:02: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/objects/Krasnostav_Trader.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/objects/Krasnostav_Trader.map' (23,873)
+2023-11-14 17:55:02: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/objects/Svetlojarsk_BoatTrader.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/objects/Svetlojarsk_BoatTrader.map' (3,795)
+2023-11-14 17:55:02: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/settings/SafeZoneSettings.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/settings/SafeZoneSettings.json' (403)
+2023-11-14 17:55:02: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/traders/AircraftsBalota.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/traders/AircraftsBalota.map' (163)
+2023-11-14 17:55:03: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/traders/BoatsFishingSvetloyarsk.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/traders/BoatsFishingSvetloyarsk.map' (352)
+2023-11-14 17:55:03: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/traders/BoatsKamenka_Traders.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/traders/BoatsKamenka_Traders.map' (161)
+2023-11-14 17:55:03: Close Modified Folder (mod-time, acl): /env
+2023-11-14 17:55:03: Close Modified Folder (mod-time, acl): /expansion_ce
+2023-11-14 17:55:03: Close Modified Folder (mod-time, acl): /Custom/Flava
+2023-11-14 17:55:03: Close Modified Folder (mod-time, acl): /Custom/Rags
+2023-11-14 17:55:03: Close Modified Folder (mod-time, acl): /expansion/objects
+2023-11-14 17:55:03: Close Modified Folder (mod-time, acl): /expansion/settings
+2023-11-14 17:55:03: Close Modified Folder (mod-time, acl): /Custom
+2023-11-14 17:55:03: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/traders/GreenMountain_Traders.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/traders/GreenMountain_Traders.map' (2,661)
+2023-11-14 17:55:03: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/traders/Kamenka_Traders.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/traders/Kamenka_Traders.map' (2,088)
+2023-11-14 17:55:04: Copy New '//172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/expansion/traders/KrasnostavAirstrip_Traders.map' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion/traders/KrasnostavAirstrip_Traders.map' (2,695)
+2023-11-14 17:55:04: Close Modified Folder (mod-time, acl): /expansion/traders
+2023-11-14 17:55:04: Close Modified Folder (mod-time, acl): /expansion
+2023-11-14 17:55:04: Save State File E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/_gsdata_/_file_state_v4._gs
+2023-11-14 17:55:06: Save State File //172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus/_gsdata_/_file_state_v4._gs
+2023-11-14 17:55:08: == Sync Complete. Time: 00:00:40, Speed: 2.89 MB/s, OK: 96, Errors: 0

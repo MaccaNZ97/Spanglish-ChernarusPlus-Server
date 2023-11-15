@@ -1,0 +1,97 @@
+2023-11-16 11:15:42: == Sync Started by User Command
+2023-11-16 11:15:45: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-16 11:15:45: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-16 11:15:45: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-16 11:15:45: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-16 11:15:45: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-16 11:15:45: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-16 11:15:46: Copy Over '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSafezones.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSafezones.json' (492) (User Action)
+2023-11-16 11:15:48: Copy Over '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSafezones_bakup.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSafezones_bakup.json' (492) (User Action)
+2023-11-16 11:15:48: Copy Over '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings.json' (14,669) (User Action)
+2023-11-16 11:15:49: Copy Over '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 00-34-56.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 00-34-56.json' (14,469)
+2023-11-16 11:15:53: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/BreachingCharge/breachingcharge.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/BreachingCharge/breachingcharge.json' (4,889)
+2023-11-16 11:15:54: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/BaseBuildingPlus/BBP_Settings.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/BaseBuildingPlus/BBP_Settings.json' (3,967)
+2023-11-16 11:15:54: Stop requested by Stop By User: #1
+2023-11-16 11:15:55: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-00-32.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-00-32.json' (14,669)
+- ERROR: Error copying file: The request was aborted.  (error 1235)
+2023-11-16 11:15:56: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 00-59-09.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 00-59-09.json' (14,669)
+2023-11-16 11:15:59: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 00-59-50.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 00-59-50.json' (14,669)
+2023-11-16 11:15:59: Save State File E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 11:15:59: Stop requested by Stop By User: #2
+2023-11-16 11:16:00: Save State File //172.111.51.148/Spanglish_Chernarus/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 11:16:00: stopped by Stop By User
+2023-11-16 11:16:00: Cannot upload log file: Copy to Temp: The request was aborted.  (error 1235)
+2023-11-16 11:16:01: Cannot upload log file: Copy to Temp: The request was aborted.  (error 1235)
+2023-11-16 11:16:03: == Sync Started by User Command
+2023-11-16 11:16:03: Deleted abandoned lock file at E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-16 11:16:04: Deleted abandoned lock file at //172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-16 11:16:06: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-16 11:16:06: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-16 11:16:06: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-16 11:16:06: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-16 11:16:06: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-16 11:16:06: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-16 11:16:07: Copy Over '//172.111.51.148/Spanglish_Chernarus/profiles/CodeLock/CodeLockPerms.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/CodeLock/CodeLockPerms.json' (416) (User Action)
+2023-11-16 11:16:07: Copy Over '//172.111.51.148/Spanglish_Chernarus/profiles/CodeLock/CodeLockConfig.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/CodeLock/CodeLockConfig.json' (439) (User Action)
+2023-11-16 11:16:15: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/CannabisPlus/CannabisPlus.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/CannabisPlus/CannabisPlus.json' (1,868)
+2023-11-16 11:16:15: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-00-32.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-00-32.json' (14,669)
+2023-11-16 11:16:15: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-01-12.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-01-12.json' (14,669)
+2023-11-16 11:16:23: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-04-15.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-04-15.json' (14,669)
+2023-11-16 11:16:23: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-02-54.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-02-54.json' (14,669)
+2023-11-16 11:16:23: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-03-34.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-03-34.json' (14,669)
+2023-11-16 11:16:31: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-05-36.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-05-36.json' (14,669)
+2023-11-16 11:16:31: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-04-56.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-04-56.json' (14,669)
+2023-11-16 11:16:31: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-06-16.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-06-16.json' (14,669)
+2023-11-16 11:16:39: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-06-55.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-06-55.json' (14,669)
+2023-11-16 11:16:39: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-08-16.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-08-16.json' (14,669)
+2023-11-16 11:16:40: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-07-34.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-07-34.json' (14,669)
+2023-11-16 11:16:47: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-08-59.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-08-59.json' (14,669)
+2023-11-16 11:16:47: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-09-40.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-09-40.json' (14,669)
+2023-11-16 11:16:47: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-10-22.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-10-22.json' (14,669)
+2023-11-16 11:16:55: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-12-25.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-12-25.json' (14,669)
+2023-11-16 11:16:55: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-11-45.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-11-45.json' (14,669)
+2023-11-16 11:16:56: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-11-03.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-11-03.json' (14,669)
+2023-11-16 11:17:02: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-13-08.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-13-08.json' (14,669)
+2023-11-16 11:17:03: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-14-32.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-12 @ 01-14-32.json' (14,669)
+2023-11-16 11:17:03: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-13 @ 19-42-29.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-13 @ 19-42-29.json' (14,669)
+2023-11-16 11:17:11: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-34-18.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-34-18.json' (14,669)
+2023-11-16 11:17:11: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-35-48.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-35-48.json' (14,669)
+2023-11-16 11:17:11: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-35-03.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-35-03.json' (14,669)
+2023-11-16 11:17:12: Copy Over '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 05-22-42.json' -> 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 05-22-42.json' (14,669)
+2023-11-16 11:17:13: Delete Folder //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Hardline/PlayerData
+2023-11-16 11:17:17: Delete File //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Settings/DamageSystemSettings.json
+2023-11-16 11:17:18: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-37-19.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-37-19.json' (14,669)
+2023-11-16 11:17:18: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-36-33.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Airdrop/AirdropSettings_bakup_2023-11-14 @ 03-36-33.json' (14,669)
+2023-11-16 11:17:19: Delete File //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Settings/DebugSettings.json
+2023-11-16 11:17:20: Delete File //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Settings/GarageSettings.json
+2023-11-16 11:17:21: Delete File //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Settings/LogsSettings.json
+2023-11-16 11:17:22: Delete File //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Settings/MonitoringSettings.json
+2023-11-16 11:17:22: Delete File //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Settings/NotificationSchedulerSettings.json
+2023-11-16 11:17:23: Delete File //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Settings/NotificationSettings.json
+2023-11-16 11:17:23: Delete File //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Settings/VehicleSettings.json
+2023-11-16 11:17:29: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/lastServer.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/lastServer.json' (19)
+2023-11-16 11:17:29: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/Inedia/InediaInfectedAIConfig.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/Inedia/InediaInfectedAIConfig.json' (14,084)
+2023-11-16 11:17:31: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/Common/Admins.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/Common/Admins.json' (6,660)
+2023-11-16 11:17:37: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/AirdropMarkers.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/AirdropMarkers.json' (409)
+2023-11-16 11:17:37: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/ChatConfig.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/ChatConfig.json' (3,235)
+2023-11-16 11:17:37: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/AutoMarker.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/AutoMarker.json' (3,726)
+2023-11-16 11:17:45: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/ClanClothing.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/ClanClothing.json' (2,028)
+2023-11-16 11:17:45: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/Levels.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/Levels.json' (1,541)
+2023-11-16 11:17:45: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/MainConfig.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/MainConfig.json' (7,128)
+2023-11-16 11:17:52: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/MuteConfig.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/MuteConfig.json' (26)
+2023-11-16 11:17:53: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/Permissions.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/Permissions.json' (4,269)
+2023-11-16 11:17:53: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/NoBuildZones.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/NoBuildZones.json' (345)
+2023-11-16 11:18:00: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/StaticMarkers.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/StaticMarkers.json' (1,404)
+2023-11-16 11:18:00: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/Timeout.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/Timeout.json' (159)
+2023-11-16 11:18:00: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/LBGroup/SafezoneMarkers.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/LBGroup/SafezoneMarkers.json' (438)
+2023-11-16 11:18:08: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/Common/Currencies.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/Common/Currencies.json' (845)
+2023-11-16 11:18:08: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/Common/Appearance.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/Common/Appearance.json' (74)
+2023-11-16 11:18:08: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/Common/Icons.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/Common/Icons.json' (331)
+2023-11-16 11:18:09: Delete Folder //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Hardline
+2023-11-16 11:18:09: Delete Folder //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Settings
+2023-11-16 11:18:10: Delete Folder //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod
+2023-11-16 11:18:14: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/Common/Logger.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/Common/Logger.json' (121)
+2023-11-16 11:18:15: Copy Over 'E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/LBmaster/Config/Common/Webhooks.json' -> '//172.111.51.148/Spanglish_Chernarus/profiles/LBmaster/Config/Common/Webhooks.json' (15,592)
+2023-11-16 11:18:15: Save State File E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 11:18:16: Save State File //172.111.51.148/Spanglish_Chernarus/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 11:18:23: == Sync Complete. Time: 00:02:20, Speed: 5.26 KB/s, OK: 61, Errors: 0

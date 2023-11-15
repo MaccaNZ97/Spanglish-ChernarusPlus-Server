@@ -1,0 +1,62 @@
+{
+    "version": 2,
+    "active": 0,
+    "entries": [
+        {
+            "clanTags": [
+                "LBm"
+            ],
+            "steamids": [],
+            "itemNames": [
+                "M65Jacket_Black",
+                "M65Jacket_Black",
+                "M65Jacket_Black",
+                "Armband_Red",
+                "Armband_Red",
+                "Armband_Red",
+                "Armband_Red",
+                "Armband_Red"
+            ],
+            "fileNames": [
+                "LBmaster_Groups\\textures\\m65_jacket_Grass_2.paa",
+                "LBmaster_Groups\\textures\\m65_jacket_Grass_2.paa",
+                "LBmaster_Groups\\textures\\m65_jacket_Grass_2.paa",
+                "LBmaster_Groups\\textures\\BB__BB_Armband.paa",
+                "LBmaster_Groups\\textures\\BB__BB_Armband.paa",
+                "LBmaster_Groups\\textures\\BB__BB_Armband.paa",
+                "LBmaster_Groups\\textures\\BB__BB_Armband.paa",
+                "LBmaster_Groups\\textures\\BB__BB_Armband.paa"
+            ],
+            "vehicleSkins": [
+                [
+                    {
+                        "itemname": "Sedan_02",
+                        "description": "Yellow"
+                    },
+                    {
+                        "itemname": "Sedan_02_Red",
+                        "description": "Red"
+                    },
+                    {
+                        "itemname": "Sedan_02_Grey",
+                        "description": "Grey"
+                    }
+                ],
+                [
+                    {
+                        "itemname": "Hatchback_02",
+                        "description": "Red"
+                    },
+                    {
+                        "itemname": "Hatchback_02_Blue",
+                        "description": "Blue"
+                    },
+                    {
+                        "itemname": "Hatchback_02_Black",
+                        "description": "Black"
+                    }
+                ]
+            ]
+        }
+    ]
+}

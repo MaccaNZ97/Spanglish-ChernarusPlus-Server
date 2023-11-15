@@ -1,0 +1,118 @@
+{
+    "currentVersion": 6,
+    "displayGroupTagsInfrontOfName": 1,
+    "forceDisplayGroupTagsInChat": 1,
+    "enableMuteVote": 1,
+    "muteVoteMinPlayers": 20,
+    "muteVoteMuteTimeMins": 10,
+    "muteVotePercentile": 0.6000000238418579,
+    "channels": [
+        {
+            "channelName": "Direct",
+            "channelColor": {
+                "a": 255,
+                "r": 255,
+                "g": 255,
+                "b": 255
+            },
+            "canReceiveMessagesFromPlayers": 1,
+            "writeChannelPermission": "",
+            "readChannelPermission": "",
+            "globalChannel": 0,
+            "groupChannel": 0,
+            "directChannel": 1,
+            "defaultChannel": 0
+        },
+        {
+            "channelName": "Global",
+            "channelColor": {
+                "a": 255,
+                "r": 3,
+                "g": 180,
+                "b": 252
+            },
+            "canReceiveMessagesFromPlayers": 1,
+            "writeChannelPermission": "",
+            "readChannelPermission": "",
+            "globalChannel": 1,
+            "groupChannel": 0,
+            "directChannel": 0,
+            "defaultChannel": 1
+        },
+        {
+            "channelName": "Group",
+            "channelColor": {
+                "a": 255,
+                "r": 3,
+                "g": 252,
+                "b": 15
+            },
+            "canReceiveMessagesFromPlayers": 1,
+            "writeChannelPermission": "",
+            "readChannelPermission": "",
+            "globalChannel": 0,
+            "groupChannel": 1,
+            "directChannel": 0,
+            "defaultChannel": 0
+        },
+        {
+            "channelName": "Admin",
+            "channelColor": {
+                "a": 255,
+                "r": 255,
+                "g": 252,
+                "b": 15
+            },
+            "canReceiveMessagesFromPlayers": 1,
+            "writeChannelPermission": "channel.admin.use",
+            "readChannelPermission": "channel.admin.use",
+            "globalChannel": 0,
+            "groupChannel": 1,
+            "directChannel": 0,
+            "defaultChannel": 0
+        }
+    ],
+    "colorBattleyeMessage": {
+        "a": 255,
+        "r": 255,
+        "g": 0,
+        "b": 0
+    },
+    "prefixGroups": [
+        {
+            "prefix": "[Owner] ",
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 255,
+            "members": [],
+            "permissionToApplyGroup": "chat.prefix.owner"
+        },
+        {
+            "prefix": "[Admin] ",
+            "colorR": 255,
+            "colorG": 0,
+            "colorB": 0,
+            "members": [],
+            "permissionToApplyGroup": "chat.prefix.admin"
+        },
+        {
+            "prefix": "[VIP] ",
+            "colorR": 255,
+            "colorG": 255,
+            "colorB": 0,
+            "members": [
+                "76561198141097113",
+                "More Steamids"
+            ],
+            "permissionToApplyGroup": "chat.prefix.vip"
+        }
+    ],
+    "badWords": [
+        "nigger",
+        "nazi"
+    ],
+    "enabledBadWordsCensor": 0,
+    "blockBadWordContainingMessages": 0,
+    "badWordsBlockedMessage": "Your Message contains Bad Words !",
+    "badWordsMuteTime": 10
+}

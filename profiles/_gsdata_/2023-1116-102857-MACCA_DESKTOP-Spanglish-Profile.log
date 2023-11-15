@@ -1,0 +1,12 @@
+2023-11-16 10:29:18: == Sync Started by User Command
+2023-11-16 10:29:20: Start only 2 threads, limited by tasks to run
+2023-11-16 10:29:20: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-16 10:29:20: ConnectCloned connected to file:///E:/Githubs/Spanglish-ChernarusPlus-Server/profiles
+2023-11-16 10:29:20: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-16 10:29:20: ConnectCloned connected to smb://172.111.51.148/Spanglish_Chernarus/profiles
+2023-11-16 10:29:21: Create Folder //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Hardline
+2023-11-16 10:29:22: Create Folder //172.111.51.148/Spanglish_Chernarus/profiles/ExpansionMod/Hardline/PlayerData
+2023-11-16 10:29:23: Close Modified Folder (mod-time, acl): /ExpansionMod/Hardline
+2023-11-16 10:29:24: Save State File E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 10:29:25: Save State File //172.111.51.148/Spanglish_Chernarus/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 10:29:26: == Sync Complete. Time: 00:00:09, Speed: 4.68 KB/s, OK: 2, Errors: 0

@@ -1,0 +1,6 @@
+2023-11-16 11:09:39: -- Analysis Started by User Command
+2023-11-16 11:09:39: L: Reading State File E:/Githubs/Spanglish-ChernarusPlus-Server/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 11:09:39: L: Old-New Time Shift of -19 hours detected for 92% (58/63) of files. Decided: No Change on this side
+2023-11-16 11:09:40: R: Reading State File //172.111.51.148/Spanglish_Chernarus/profiles/_gsdata_/_file_state_v4._gs
+2023-11-16 11:09:49: Changes: 0, Conflicts: 0, CopyTime: 0, FixState: 0, Errors: 0, All: 126
+2023-11-16 11:09:49: -- Analysis Complete. Time 00:00:11, Speed: 11 files/s

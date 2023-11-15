@@ -1,0 +1,14 @@
+{
+    "version": 0,
+    "enableAirdropMarkers": 1,
+    "updatePositionWhenDropped": 1,
+    "markerForRandomAirdrop": 1,
+    "markerForPlayerCalledAirdrop": 1,
+    "nameBeforeDrop": "Airdrop Arriving...",
+    "nameAfterDrop": "Airdrop Arrived",
+    "icon": "Airdrop-Upgraded\\data\\Airdrop-Upgraded-ACFT.paa",
+    "markerColorA": 255,
+    "markerColorR": 255,
+    "markerColorG": 255,
+    "markerColorB": 255
+}

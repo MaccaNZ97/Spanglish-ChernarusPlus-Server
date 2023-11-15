@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "enableTimeout": 0,
+    "timeoutDifferentGroupDurationSeconds": 86400,
+    "timeoutSameGroupDurationSeconds": 3600,
+    "players": []
+}

@@ -1,0 +1,10 @@
+2023-11-14 18:15:25: -- Analysis Started by User Command
+2023-11-14 18:15:25: L: Reading State File E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/_gsdata_/_file_state_v4._gs
+2023-11-14 18:15:25: L: State file does not exist: E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/_gsdata_/_file_state_v4._gs
+2023-11-14 18:15:25: L: Reading State File E:/Githubs/Spanglish-ChernarusPlus-Server/mpmissions/expansion.chernarusplus and merge it with the root state
+2023-11-14 18:15:26: R: Reading State File //172.111.51.148/Spanglish_Chernarus/mpmissions/_gsdata_/_file_state_v4._gs
+2023-11-14 18:15:26: R: State file does not exist: //172.111.51.148/Spanglish_Chernarus/mpmissions/_gsdata_/_file_state_v4._gs
+2023-11-14 18:15:29: R: Reading State File //172.111.51.148/Spanglish_Chernarus/mpmissions/expansion.chernarusplus and merge it with the root state
+2023-11-14 18:15:43: Changes: 229, Conflicts: 0, CopyTime: 0, FixState: 1, Errors: 0, All: 328
+2023-11-14 18:15:43: Right to Left: Copy File: 229 
+2023-11-14 18:15:43: -- Analysis Complete. Time 00:00:19, Speed: 17 files/s
